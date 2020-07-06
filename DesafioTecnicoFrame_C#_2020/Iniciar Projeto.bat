@@ -1,0 +1,1 @@
+start DesafioTecnico\bin\Debug\netcoreapp3.1\DesafioTecnico

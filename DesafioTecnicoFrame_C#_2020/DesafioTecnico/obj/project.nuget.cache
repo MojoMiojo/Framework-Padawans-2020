@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMaYgE5JEEaowP2+q/qlRQYBIJXG/rfELYXZ/A8WA5nWgxwAzr3gkSPlJHAiOO2uZwtPQL1OulDyc+1LVK6QBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mozart Sousa\\Dropbox\\Mozart_Projects\\FrameworkPadawans\\DesafioTecnicoFrame_C#_2020\\DesafioTecnico\\DesafioTecnico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mozart Sousa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Mozart Sousa\\.nuget\\packages\\refit\\5.1.67\\refit.5.1.67.nupkg.sha512",
+    "C:\\Users\\Mozart Sousa\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

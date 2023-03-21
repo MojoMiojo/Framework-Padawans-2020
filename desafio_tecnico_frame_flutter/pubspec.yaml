@@ -33,7 +33,7 @@ dependencies:
   rxdart:
   get_it:
   http:
-  dio: ^3.0.1
+  dio: ^5.0.3
   http_interceptor:
 
 dev_dependencies:
